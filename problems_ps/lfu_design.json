@@ -1,0 +1,9 @@
+{
+    "id":"1_lfu",
+    "lfu_ps":"lfu_desc.txt",
+    "java_url":"../java_ps/lfu_design_java.java",
+    "python_url":"../python_ps/lfu_design_python.py",
+    "javascript_url":"../java_script_ps/lfu_design_js.js",
+    "typescript_url":"../type_script_ps/lfu_design_ts.ts",
+    "leetcode_url" : ""
+}
